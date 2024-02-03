@@ -1,2 +1,3 @@
 # DataStructure-final-project
-TIC-TAC-TOE game
+A simple TIC-TAC-TOE game
+Using the Minimax algorithm to find the best move for the AI
